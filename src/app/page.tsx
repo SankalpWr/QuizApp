@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/Button";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-white text-black">
+    <main className="flex min-h-screen flex-col items-center justify-center p-24 bg-gradient-to-br from-indigo-50 via-white to-purple-50 text-black">
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <h1 className="text-4xl font-bold mb-8">Quiz App</h1>
       </div>
